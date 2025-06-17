@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Speak Updates - Stable Channel</title>
-    <description>Updates for Speak voice dictation app</description>
-    <language>en</language>
-    <link>https://github.com/himachal-labs/speak-releases</link>
-    
-    <!-- Empty channel - no updates available yet -->
-    <!-- Sparkle will interpret this as "no updates available" -->
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Speak Updates - Stable Channel</title>
+        <description>Updates for Speak voice dictation app</description>
+        <language>en</language>
+        <link>https://github.com/himachal-labs/speak-releases/releases/download</link>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Mon, 16 Jun 2025 22:51:48 </pubDate>
+            <enclosure url="https://github.com/himachal-labs/speak-releases/releases/download/Speak-1.0.dmg" length="2780979528" type="application/octet-stream" sparkle:version="1.0" sparkle:shortVersionString="1.0" sparkle:edSignature="PLACEHOLDER_SIGNATURE"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>stable</sparkle:channel>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 16 Jun 2025 23:04:41 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/himachal-labs/speak-releases/releases/Speak-1.0.dmg" length="2757428218" type="application/octet-stream" sparkle:edSignature="sG4PuxUSyIOt6ljM4eNswCZw//fiA+JyosVwkmFIUlT4v/gETAWA/KP8V9F0ZgCFtADbwariYvhyT9tntmXKCA=="/>
+        </item>
+    </channel>
 </rss>
