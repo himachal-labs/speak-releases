@@ -18,7 +18,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/himachal-labs/speak-releases/releases/Speak-1.0.dmg" length="2757428218" type="application/octet-stream" sparkle:edSignature="sG4PuxUSyIOt6ljM4eNswCZw//fiA+JyosVwkmFIUlT4v/gETAWA/KP8V9F0ZgCFtADbwariYvhyT9tntmXKCA=="/>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.dmg" length="2757428351" type="application/octet-stream" sparkle:edSignature="KKJHHcnv0ZdOJW0BK8cJXsbTeHpxlMLkRxLaBuoQxJwQIw/GJhzaemEjjzNWsmqzsXzJGuy4VxqQHIMbq12UAQ=="/>
         </item>
     </channel>
 </rss>
