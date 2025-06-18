@@ -6,6 +6,14 @@
         <language>en</language>
         <link>https://github.com/himachal-labs/speak-releases/releases/download</link>
         <item>
+            <title>1.0</title>
+            <pubDate>Wed, 18 Jun 2025 16:18:59 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.1.dmg" length="2757977152" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0</title>
             <pubDate>Mon, 16 Jun 2025 22:51:48 </pubDate>
             <enclosure url="https://github.com/himachal-labs/speak-releases/releases/download/Speak-1.0.dmg" length="2780979528" type="application/octet-stream" sparkle:version="1.0" sparkle:shortVersionString="1.0" sparkle:edSignature="PLACEHOLDER_SIGNATURE"/>
