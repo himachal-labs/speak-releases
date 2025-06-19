@@ -6,6 +6,17 @@
         <language>en</language>
         <link>https://github.com/himachal-labs/speak-releases/releases/download</link>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 19 Jun 2025 11:41:26 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.3.dmg" length="2757976164" type="application/octet-stream" sparkle:edSignature="2038640zN2tgPQu6LolvFDCVNsjzy5iX4KWvZSeqQua5a/MXf1RVAFjOATWAuJgoe6TxAc6KFnvejyE0nkBKBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.vastsilicon.com/speak4-3.delta" sparkle:deltaFrom="3" length="405318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gyZcH5kylWoBMWDbo/GHfGhakCD7kiqok+lD5diAezV+/5C4vSQo6yqvX0sNxwtHcQeHyly1pC6ASYXk6b6RAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Thu, 19 Jun 2025 10:49:56 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -27,14 +38,6 @@
             <enclosure url="https://github.com/himachal-labs/speak-releases/releases/download/Speak-1.0.dmg" length="2780979528" type="application/octet-stream" sparkle:version="1.0" sparkle:shortVersionString="1.0" sparkle:edSignature="PLACEHOLDER_SIGNATURE"/>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:channel>stable</sparkle:channel>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 16 Jun 2025 23:04:41 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.1.dmg" length="2757974011" type="application/octet-stream" sparkle:edSignature="cEgfCw9Mtd3Y+3aAadjpc2nE2arvIZLZN/wMCvv4PAJwMs3AUHUBRAMgKUYYoT9FeHBXmD0SeCwO/Z8x2jQlBQ=="/>
         </item>
     </channel>
 </rss>
