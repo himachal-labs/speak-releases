@@ -6,6 +6,18 @@
         <language>en</language>
         <link>https://github.com/himachal-labs/speak-releases/releases/download</link>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Sat, 21 Jun 2025 16:07:42 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.4.dmg" length="2752881631" type="application/octet-stream" sparkle:edSignature="tMdnOp1qN38hGIN/fjsYRYUhZqQs8joHzQq9j4lrHtyQqz/Nsg2G8NLYe8NJBllG59886sXRPmcGUOPOSRoNAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.vastsilicon.com/speak5-4.delta" sparkle:deltaFrom="4" length="808074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Qq4Xsi/riKN1hIlyPSIr9sJnsbFR4VrQjaQTfh5vPzup37AAz2Qkdc5JPKSBY0tkvnZvW52UHXYtCU3RMwb6DA=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak5-3.delta" sparkle:deltaFrom="3" length="810082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="BkygG5frhz5Fl6LJBe3UOP5Y0mnvTtoZuD9faiMvARazdf6TuvhykqSJn3jY5/eTZv44T6bQgSNF2yw/NsBnDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Thu, 19 Jun 2025 11:41:26 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -23,14 +35,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://releases.vastsilicon.com/Speak-1.0.2.dmg" length="2757976900" type="application/octet-stream" sparkle:edSignature="EhrMOVlrNoz7clV/OB3HxyRNHS7mIYExSXjawbGxULyw5xOfWgtpuw07bqXNjsnEaVVLjCtWHgeapveXXUVJAw=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 18 Jun 2025 16:18:59 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.1.dmg" length="2757977152" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 1.0</title>
