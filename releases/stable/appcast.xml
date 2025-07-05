@@ -6,6 +6,21 @@
         <language>en</language>
         <link>https://github.com/himachal-labs/speak-releases/releases/download</link>
         <item>
+            <title>1.0.12</title>
+            <pubDate>Sat, 05 Jul 2025 13:44:23 +0900</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.12.dmg" length="2767927804" type="application/octet-stream" sparkle:edSignature="+CtVhWPUC9dKzocJQz8vW1bqkFuSxpvZb0p9MdF8qgh8jR0nA60LjUvnKZfNLGIidD7m2Q//sJFkLVMMQ73YDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.vastsilicon.com/speak13-12.delta" sparkle:deltaFrom="12" length="2056278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="JYv8JXTrcTrispySyl0wS+ppl8hedWJk8uoHSrxzR1C8q/HX4iYcbhp79pX9vFZnPC3bhnxcbHRLjv8ABcL3BQ=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak13-10.delta" sparkle:deltaFrom="10" length="13204762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7dotVwzkPvkIVgvBZWcel68W0uRxOjh5+afhv1bs/fiM5fqQ+mpROCeoOavgsr9/FlJfcnWQDFespuruRykUDg=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak13-9.delta" sparkle:deltaFrom="9" length="13220666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZtyGRSYRaO2d+e3J2qRUoEFpJUvoWv+cZXYBztdgwgHa/SgTh4+wt5iWyY5Zq2rgCuQScw2CqLYu+dSIqVWDBA=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak13-8.delta" sparkle:deltaFrom="8" length="13280806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fo/HD9W1UUC0TNG8Tw6ClBDWIHi2tFLHfHjOxM4Hu5jSbcixHBKeqAfF8qFW6eaW1Nty0bQI62GQHQ4ihSgyAg=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak13-7.delta" sparkle:deltaFrom="7" length="16920002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wT9ZgBFKYpayjnjjoNkLUv2TwJorx2mixRgV//5we51oC1QyPggLrYVh63Wihon7uc+Px0Nu9N4lzrR1XVj8AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.11</title>
             <pubDate>Sat, 05 Jul 2025 12:03:16 +0900</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -33,21 +48,6 @@
                 <enclosure url="https://releases.vastsilicon.com/speak10-7.delta" sparkle:deltaFrom="7" length="5836606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qH+qMVjNDhWnD4R6e6RE2HlxUmcUDFS2SEpVCC8x8BnhGmQTil2VFczs38Zesd6vt2URkGdtpu7+Kk1Wm78iAg=="/>
                 <enclosure url="https://releases.vastsilicon.com/speak10-6.delta" sparkle:deltaFrom="6" length="5829322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3DpqsfppTQBhQ6Xur9+NimrW2kYVFgef6nQjKdBi2FnQQwFNuyVcxsQqKC//b/eBPXmCBEM6rcezI9tYMeoBAQ=="/>
                 <enclosure url="https://releases.vastsilicon.com/speak10-5.delta" sparkle:deltaFrom="5" length="5878934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5y4iZza77syLZzF1L8vnIR+9xPy3+SITc6G6pkC9IKlTD6pUgMUeKIpF641pIrPDGCPZPxf0kooDOART6k9nDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Tue, 24 Jun 2025 10:11:16 +0900</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.8.dmg" length="2757494812" type="application/octet-stream" sparkle:edSignature="PfTDm6DtzcU9cN8ttxJOcROeW0xK2YSWrZGnceDLSIjaow3fG0sHw6iWfGe0zTq7/EHXFTg2JhpwAIO9LwamAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://releases.vastsilicon.com/speak9-8.delta" sparkle:deltaFrom="8" length="1074814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PFTBq5F0Aue3xV+bIYmoCqmoEDb9YYDZWTuvoCUhTiAg/5daJ7m0r+DWo86YWuARxhGOUoiNqCN9ARNQDCWrAw=="/>
-                <enclosure url="https://releases.vastsilicon.com/speak9-7.delta" sparkle:deltaFrom="7" length="5821230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wnqG4CrN5S9AISQBbm5LYvhBrB1QmDjRqZtBg8ZkMeRHKG9OFCpxR6uxfSDxGYjuY8VlcJdL/xTmRT70oLSqBQ=="/>
-                <enclosure url="https://releases.vastsilicon.com/speak9-6.delta" sparkle:deltaFrom="6" length="5817966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cmz+Eso34r4e/MPl3ioAAqgPEJTrzAQPeZ0UQECKHjEqUkmufP0cH7ymMkWLzNuT23R7bX7/5hA3xfTyfDS5Bw=="/>
-                <enclosure url="https://releases.vastsilicon.com/speak9-5.delta" sparkle:deltaFrom="5" length="5871886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2kYcKZUBSQwTqWNhLWVGj8WGCoDOr2IYnZ3Bp9WcT9PzP/5Ovt3d81KtaOtCJqTD7MTKEDtoPsSZX16NH8UXBw=="/>
-                <enclosure url="https://releases.vastsilicon.com/speak9-4.delta" sparkle:deltaFrom="4" length="6073666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ISvR3uQvItZMf0xgYtXPFnpVhZOUJlWhpNC7WORBMelkL96SmqSj3zI75w/0/T511YHwMS5bPUORg7usTgkVCg=="/>
             </sparkle:deltas>
         </item>
         <item>
