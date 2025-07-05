@@ -1,14 +1,61 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>speak</title>
+        <title>Speak Updates - Stable Channel</title>
+        <description>Updates for Speak voice dictation app</description>
+        <language>en</language>
+        <link>https://github.com/himachal-labs/speak-releases/releases/download</link>
         <item>
-            <title>1.0.10</title>
-            <pubDate>Tue, 01 Jul 2025 10:31:46 +0900</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <pubDate>Sat, 05 Jul 2025 12:03:16 +0900</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.10.dmg" length="2759520409" type="application/octet-stream" sparkle:edSignature="LUdovEvkSAcTc1UTj2p0C3JKDBGcchzDYCQqdiF888wBPF3OrJiLXRWgkK5GvfX/OawE3C940gC0Bo1wOFDBBg=="/>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.11.dmg" length="2767864465" type="application/octet-stream" sparkle:edSignature="Kb036MrXJhK9/PzIdY8fvItbkYcNZk7dLJQyYb9tDOHH6baB3VaNZ0cUI/obiBfRO6vgvmw0GPUArZ9EmhbEBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.vastsilicon.com/speak12-10.delta" sparkle:deltaFrom="10" length="13145502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zd4DBrnMQk5tlFwQ1gcdToOsX3fzh4Er19ncCE9g9pONx1jmFwWGBMZ18pvuK2LPV6HwZXtj9yysHFm3+H6EAA=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak12-9.delta" sparkle:deltaFrom="9" length="13209166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QVuyMnau+PMege9my8WX65kYt8Www2/ZOdrLL5+vcf+Blr4gHy+xJvaLdicw/1Ftm2/tlqpHzUL6oSidudeHBA=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak12-8.delta" sparkle:deltaFrom="8" length="13239798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="v4koMihb2UyCw+3dT4pZAxhoc6yFPmudJLMDMv3nYaaVLbbllT7ItaxQKlxLIL2BgFc+nceIywsLz2yjFJP6Cg=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak12-7.delta" sparkle:deltaFrom="7" length="16925090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="bOgCT71l4lneE73MiYqYxq0kpcpfQ4HuEdaHFK+3rI9UiZCxlvNj0cr+exfYDB9E4qOoUilt3x6f1A/hbRO1BA=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak12-6.delta" sparkle:deltaFrom="6" length="16930870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="c7cIRIi4hTEvttG1HJl5xBBNASzFMS9oudrPLvEvJQhUs4OEE4WD/Ijm+436zwYf0vHRu5h6dtgXoqJOkkJRCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.9</title>
+            <pubDate>Tue, 24 Jun 2025 17:47:58 +0900</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.9.dmg" length="2757546314" type="application/octet-stream" sparkle:edSignature="njw8jTV/vDMjiqphGJwVKaD7jP34hE2ymQIiFJkqIvJ9l4IuEN443i0qp/9WUX/PLPCP5yvDtT4P1gYOlc17Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.vastsilicon.com/speak10-9.delta" sparkle:deltaFrom="9" length="1144742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5QjyAwZ2wiKqri4oT0Qir0a5MceImbfhG6CxsOjS6g7mVy8IRyOEaNhouzWTG1/ej1UESShgCrXlf4obPRNRCg=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak10-8.delta" sparkle:deltaFrom="8" length="1207634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="seNX9NwHZA1GUg7+vjBqkhTCgglpK0UEGYKTC2qdbJdtqg9QPf+8Ccef2WE0xAgkZGHWQM9FQ1IUqUBhQ4ECDA=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak10-7.delta" sparkle:deltaFrom="7" length="5836606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qH+qMVjNDhWnD4R6e6RE2HlxUmcUDFS2SEpVCC8x8BnhGmQTil2VFczs38Zesd6vt2URkGdtpu7+Kk1Wm78iAg=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak10-6.delta" sparkle:deltaFrom="6" length="5829322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3DpqsfppTQBhQ6Xur9+NimrW2kYVFgef6nQjKdBi2FnQQwFNuyVcxsQqKC//b/eBPXmCBEM6rcezI9tYMeoBAQ=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak10-5.delta" sparkle:deltaFrom="5" length="5878934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5y4iZza77syLZzF1L8vnIR+9xPy3+SITc6G6pkC9IKlTD6pUgMUeKIpF641pIrPDGCPZPxf0kooDOART6k9nDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.8</title>
+            <pubDate>Tue, 24 Jun 2025 10:11:16 +0900</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.vastsilicon.com/Speak-1.0.8.dmg" length="2757494812" type="application/octet-stream" sparkle:edSignature="PfTDm6DtzcU9cN8ttxJOcROeW0xK2YSWrZGnceDLSIjaow3fG0sHw6iWfGe0zTq7/EHXFTg2JhpwAIO9LwamAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.vastsilicon.com/speak9-8.delta" sparkle:deltaFrom="8" length="1074814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PFTBq5F0Aue3xV+bIYmoCqmoEDb9YYDZWTuvoCUhTiAg/5daJ7m0r+DWo86YWuARxhGOUoiNqCN9ARNQDCWrAw=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak9-7.delta" sparkle:deltaFrom="7" length="5821230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wnqG4CrN5S9AISQBbm5LYvhBrB1QmDjRqZtBg8ZkMeRHKG9OFCpxR6uxfSDxGYjuY8VlcJdL/xTmRT70oLSqBQ=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak9-6.delta" sparkle:deltaFrom="6" length="5817966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cmz+Eso34r4e/MPl3ioAAqgPEJTrzAQPeZ0UQECKHjEqUkmufP0cH7ymMkWLzNuT23R7bX7/5hA3xfTyfDS5Bw=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak9-5.delta" sparkle:deltaFrom="5" length="5871886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2kYcKZUBSQwTqWNhLWVGj8WGCoDOr2IYnZ3Bp9WcT9PzP/5Ovt3d81KtaOtCJqTD7MTKEDtoPsSZX16NH8UXBw=="/>
+                <enclosure url="https://releases.vastsilicon.com/speak9-4.delta" sparkle:deltaFrom="4" length="6073666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ISvR3uQvItZMf0xgYtXPFnpVhZOUJlWhpNC7WORBMelkL96SmqSj3zI75w/0/T511YHwMS5bPUORg7usTgkVCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Mon, 16 Jun 2025 22:51:48 </pubDate>
+            <enclosure url="https://github.com/himachal-labs/speak-releases/releases/download/Speak-1.0.dmg" length="2780979528" type="application/octet-stream" sparkle:version="1.0" sparkle:shortVersionString="1.0" sparkle:edSignature="PLACEHOLDER_SIGNATURE"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>stable</sparkle:channel>
         </item>
     </channel>
 </rss>
